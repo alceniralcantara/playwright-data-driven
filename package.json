@@ -1,0 +1,12 @@
+{
+  "name": "playwright-data-driven",
+  "version": "1.0.0",
+  "description": "Examples of data‑driven tests with Playwright in TypeScript using inline arrays, JSON, and CSV inputs.",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "typescript": "^5.4.2"
+  }
+}
