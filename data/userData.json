@@ -1,0 +1,4 @@
+[
+  { "login": "octocat", "expectedId": 583231 },
+  { "login": "mojombo", "expectedId": 1 }
+]
